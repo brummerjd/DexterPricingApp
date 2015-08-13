@@ -1,0 +1,9 @@
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\MainWindow.baml
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\MainWindow.g.cs
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\App.g.cs
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\PossPricingApp_MarkupCompile.cache
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\PossPricingApp.g.resources
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\PossPricingApp.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\josh\documents\visual studio 2010\Projects\PossPricingApp\PossPricingApp\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<configuration>
+<configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+        <section name="PossPricingApp.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+</configSections>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup><userSettings>
+        <PossPricingApp.Properties.Settings>
+            <setting name="StorageLocation" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="PricePerLbDistillers" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="PricePerLbHay" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="PricePerLbCorn" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="PricePerLbMinerals" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="PricePerLbYardage" serializeAs="String">
+                <value>0</value>
+            </setting>
+        </PossPricingApp.Properties.Settings>
+    </userSettings>
+</configuration>

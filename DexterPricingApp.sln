@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DexterPricingApp", "PossPricingApp\DexterPricingApp.csproj", "{54829BB2-0984-44B0-8C08-3B6271690B38}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PossPricingApplicationSetup", "PossPricingApplicationSetup\PossPricingApplicationSetup.vdproj", "{8A40EEBD-04C7-409A-8CB8-23A1C6279B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54829BB2-0984-44B0-8C08-3B6271690B38}.Debug|x86.ActiveCfg = Debug|x86
+		{54829BB2-0984-44B0-8C08-3B6271690B38}.Debug|x86.Build.0 = Debug|x86
+		{54829BB2-0984-44B0-8C08-3B6271690B38}.Release|x86.ActiveCfg = Release|x86
+		{54829BB2-0984-44B0-8C08-3B6271690B38}.Release|x86.Build.0 = Release|x86
+		{8A40EEBD-04C7-409A-8CB8-23A1C6279B15}.Debug|x86.ActiveCfg = Debug
+		{8A40EEBD-04C7-409A-8CB8-23A1C6279B15}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
